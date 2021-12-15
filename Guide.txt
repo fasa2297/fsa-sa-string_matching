@@ -1,0 +1,1 @@
+Ketiga code harus dalam 1 folder termasuk dictionary_S.py untuk menjalankan program string Matching Brute Force dan String Matching Boyer moore
